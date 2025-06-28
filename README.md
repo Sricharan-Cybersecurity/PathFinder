@@ -53,7 +53,7 @@ Step 2: Move DOWN to (4, 3)
 ...
 Step 17: Move RIGHT to (10, 12)
 
-How to Use
+## How to Use
 Launch the program
 
 bash
@@ -80,8 +80,7 @@ Reset/Restart (Red / Green Buttons) → Clear or return to home
 
 Logs will be saved inside the pathhunter_logs/ folder with timestamps.
 
-
-🌱 Future Ideas
+## 🌱 Future Ideas
 [ ] Add Dijkstra’s Algorithm to the comparison
 
 [ ] GUI enhancements: sliders for grid size, color themes
@@ -91,5 +90,5 @@ Logs will be saved inside the pathhunter_logs/ folder with timestamps.
 [ ] Run algorithms in parallel threads
 
 
-✨ Author
+## ✨ Author
 Pisupati Sricharan — exploring algorithms, secure systems, and robotics.
