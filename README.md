@@ -52,7 +52,7 @@ Step 1: Move DOWN to (3, 3)
 Step 2: Move DOWN to (4, 3)
 ...
 Step 17: Move RIGHT to (10, 12)
-
+---
 ## How to Use
 Launch the program
 
@@ -79,7 +79,7 @@ Compare Button (Purple) → Toggle performance bars
 Reset/Restart (Red / Green Buttons) → Clear or return to home
 
 Logs will be saved inside the pathhunter_logs/ folder with timestamps.
-
+---
 ## 🌱 Future Ideas
 [ ] Add Dijkstra’s Algorithm to the comparison
 
@@ -88,7 +88,8 @@ Logs will be saved inside the pathhunter_logs/ folder with timestamps.
 [ ] Export path images or animations
 
 [ ] Run algorithms in parallel threads
-
+---
 
 ## ✨ Author
 Pisupati Sricharan — exploring algorithms, secure systems, and robotics.
+---
